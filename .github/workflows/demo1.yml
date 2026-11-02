@@ -11,6 +11,7 @@ on:
     branches:
       - main
       - dev
+      - hen
     paths-ignore:
       - '.github/workflows/*'
 jobs:
